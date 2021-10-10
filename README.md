@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+🔭 I'm currently working on a pizza website. Its build with the django framework which runs python. I already set up a masterpage with different pages. 
+
+🌱 I’m want to learn something about website technologies. What kind of technolgies I can use and are easy to combine and useful.
+
+⚽️ My hobbies are different kind of sports like soccer, surfing, climbing and mountaineering. 
+
 <!--
 **milg8787/milg8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
